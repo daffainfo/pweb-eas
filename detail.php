@@ -64,7 +64,7 @@ $persentasi=round($nilai/$jumlah_soal * 100,2);
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Print Siswa</title>
+	<title>Detail Siswa</title>
     <meta charset="UTF-8">
     <meta name="author" content="Muhammad Daffa">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
